@@ -1,0 +1,1 @@
+This is just a simple project of me trying to recreate a small aspect of the google homepage
